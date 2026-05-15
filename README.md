@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lima-zampier-de-andrade-a8a6513b4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/pedro-lima-zampier-de-andrade-a8a6513b4)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://opedrozampier.github.io/pedroz.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OPedroZampier)
 
