@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pedro%20Zampier&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20in%20Training%20%7C%20Data%20Storyteller&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,40:0d1f3c,70:0a3d4d,100:22d3ee&height=220&section=header&text=Pedro%20Zampier&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20in%20Training%20%7C%20Data%20Storyteller&descAlignY=58&descSize=19&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -111,14 +111,6 @@ Atuo como a **ponte entre os números e os negócios**, traduzindo métricas té
 
 ---
 
-### 📁 [Projeto Aula 1 - Ciência de Dados](https://github.com/OPedroZampier/projeto-aula1-SD)
-
-> Projeto inicial explorando fundamentos de Ciência de Dados com Python.
-
-- 🎯 Aplicação prática de conceitos introdutórios de análise de dados
-- 🛠️ Stack: `Python` · `Jupyter Notebook`
-
----
 
 ### 🌐 [Portfólio Pessoal](https://github.com/OPedroZampier/pedroz.github.io)
 
@@ -142,15 +134,6 @@ Atuo como a **ponte entre os números e os negócios**, traduzindo métricas té
 
 ---
 
-## 🐍 Contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-
-</div>
-
----
 
 ## 📬 Vamos Trabalhar Juntos?
 
@@ -172,7 +155,7 @@ Atuo como a **ponte entre os números e os negócios**, traduzindo métricas té
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,30:0a3d4d,60:0d1f3c,100:0a0e1a&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 *© 2026 Pedro Lima Zampier de Andrade · Feito com ❤️ e dados.*
 
