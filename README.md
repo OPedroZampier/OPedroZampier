@@ -73,9 +73,9 @@ Atuo como a **ponte entre os números e os negócios**, traduzindo métricas té
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OPedroZampier&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+<img height="180em" src="https://github-readme-stats-eight-gamma-20.vercel.app/api?username=OPedroZampier&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OPedroZampier&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-eight-gamma-20.vercel.app/api/top-langs/?username=OPedroZampier&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
 </div>
 
