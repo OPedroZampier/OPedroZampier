@@ -73,9 +73,7 @@ Atuo como a **ponte entre os números e os negócios**, traduzindo métricas té
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-gamma-20.vercel.app/api?username=OPedroZampier&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
-
-<img height="180em" src="https://github-readme-stats-eight-gamma-20.vercel.app/api/top-langs/?username=OPedroZampier&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OPedroZampier&theme=tokyo-night&bg_color=0d1117&color=22d3ee&line=22d3ee&point=ffffff&area=true&area_color=0a3d4d&hide_border=true" width="100%"/>
 
 </div>
 
