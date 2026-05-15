@@ -141,7 +141,7 @@ Atuo como a **ponte entre os números e os negócios**, traduzindo métricas té
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Me%20chame%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lima-zampier-de-andrade-a8a6513b4/)
+[![LinkedIn](https://img.shields.io/badge/Me%20chame%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lima-zampier-de-andrade-a8a6513b4)
 
 </div>
 
